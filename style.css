@@ -21,6 +21,8 @@ h1{
     bottom: 10px;
     left: 50%;
     margin-left: -80px;
+    animation: spin-left 11s linear infinite;
+    -webkit-animation: spin-left 11s linear infinite;
 }
 
 /*========== NEPTUNE ==========*/
